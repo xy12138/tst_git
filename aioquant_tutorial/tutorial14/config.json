@@ -1,0 +1,19 @@
+{
+    "LOG":{
+        "console":true,
+        "level":"INFO",
+        "path":"var/log/servers/aioquant",
+        "name":"quant.log",
+        "clear":true,
+        "backup_count":0
+        },
+
+
+    "strategy":"test_strategy",
+    "platform": "okex",
+    "symbol":"EOSUSDT",
+    "account":"issue5@gmail.com",
+    "access_key":"5e18cd8b-3452-467a-a8bc-2d91a5cefae2",
+    "secret_key":"9559ACD914B1AEA5210C2F3DC759B2AF",
+    "passphrase":"Xy3932916!"
+}

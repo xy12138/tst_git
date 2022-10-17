@@ -1,0 +1,18 @@
+{
+    "LOG":{
+        "console":true,
+        "level":"INFO",
+        "path":"var/log/servers/aioquant",
+        "name":"quant.log",
+        "clear":true,
+        "backup_count":0
+        },
+
+
+    "strategy":"test_strategy",
+    "platform": "binance",
+    "symbol":"EOSUSDT",
+    "account":"issue5@gmail.com",
+    "access_key":"NCTtd1PSspmLWZGQz686GezjfqafpRO9S9nnuHgCVvvxY9L7JnZWPxoZqp0qlHO6",
+    "secret_key":"IFVfrsk3whCZr6ZTKEBnn0DXSyNkZ5vRWzg3BQcm6dHFcXhh4NukODEaTybwUxML"
+}
