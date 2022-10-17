@@ -16,5 +16,3 @@ print('nihao from zxtst1')
 
 
 print('版本1')
-
-print('版本2')
