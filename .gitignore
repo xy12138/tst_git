@@ -1,2 +1,5 @@
-/zxtst/tst_ignore
 *.log
+*.temp
+*.cc
+tst_ignore
+test.py
